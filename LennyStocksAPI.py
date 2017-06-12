@@ -3,7 +3,7 @@
 
 #!/usr/bin/python
 import sys
-sys.path.insert(0, '/home/pi/Trading/userAlgorithms/functions')
+sys.path.insert(0, '/home/pi/Trading/functions')
 
 import traderFunctionsPublic
 
