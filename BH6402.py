@@ -1,4 +1,4 @@
-#Code by Ben Hirschfield, Isaac Chadrichi
+#Code by Ben Hirschfield
 #Last Updated 25/05/17
 
 #!/usr/bin/python
