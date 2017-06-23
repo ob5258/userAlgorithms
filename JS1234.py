@@ -7,8 +7,9 @@ now = datetime.now()
 UID = "JS1234"
 
 while 1 > 0:
-	
-	
+	now_time = now.time()
+	if now_time >= time(9,30) and now_time <=(9,35):				
+		
 	
 	
 	LennyStocksAPI.buyStocks(UID, "AAPL", 2)
