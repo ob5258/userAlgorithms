@@ -13,6 +13,7 @@ while 1 > 0:
 		time.sleep(600)
 	if now_time >= time(15,30) and now_time <=(15,35):
 		LennyStocksAPI.sellStocks(UID, "AAPL", 2)
+		time.sleep(600)
 	
 	
 
